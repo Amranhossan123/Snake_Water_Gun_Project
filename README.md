@@ -1,5 +1,4 @@
-# Snake_Water_Gun_Project
-# Snake, Water, Gun Game 
+# Snake_Water_Gun_Project 
 
 A simple Python command-line game using the `random` module.
 
