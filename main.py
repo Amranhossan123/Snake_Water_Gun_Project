@@ -6,6 +6,7 @@
 1 for Snake
 
 '''
+
 import random
 computer=random.choice([-1,0,1])
 you_choice=input("Enter your choice S,W,G :")
